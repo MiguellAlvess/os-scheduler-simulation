@@ -1,7 +1,7 @@
 import { Process } from "./process.js";
 
 describe("Process", () => {
-  test("Deve garantir que o clockCycle decremente a quantidade de instruções corretamente", () => {
+  test("Deve garantir que o clockCycle decremente a quantidade de instruções", () => {
     const processo = new Process(1, 3);
 
     expect(processo.clockCycle()).toBe(
