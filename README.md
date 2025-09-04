@@ -2,8 +2,8 @@
 
 Este projeto foi desenvolvido como exercício prático da disciplina de Sistemas Operacionais da faculdade. O objetivo é simular três algoritmos clássicos de escalonamento de processos:
 
-- **FCFS (First Come, First Served)** – Primeiro a chegar, primeiro a ser atendido.
-- **SJF (Shortest Job First)** – Sempre executa o processo mais curto primeiro.
+- **First Come, First Served (FCFS)** – Primeiro a chegar, primeiro a ser atendido.
+- **Shortest Job First (SJF)** – Sempre executa o processo mais curto primeiro.
 - **Round Robin (RR)** – Escalonamento em rodízio, com quantum configurável.
 
 ## Como rodar o projeto
