@@ -31,3 +31,5 @@ npm run test
 ```
 
 ## Exemplo de saida
+
+<img width="564" height="449" alt="image" src="https://github.com/user-attachments/assets/5c00beb7-133b-494d-86c0-ff1cd6f01807" />
