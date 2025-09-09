@@ -1,4 +1,4 @@
-import { Process } from "../entities/process.js";
+import { Process } from "../process/process.js";
 import { RoundRobinScheduler } from "./round-robin.js";
 
 describe("Algoritmo Round Robin", () => {

@@ -1,4 +1,4 @@
-import { Process } from "../entities/process.js";
+import { Process } from "../process/process.js";
 import { FCFSScheduler } from "./fcfs.js";
 
 describe("Algoritmo First Come, First Served", () => {

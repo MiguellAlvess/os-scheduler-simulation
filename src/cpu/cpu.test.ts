@@ -1,4 +1,4 @@
-import { Process } from "../entities/process.js";
+import { Process } from "../process/process.js";
 import { FCFSScheduler } from "../scheduler/fcfs.js";
 import { CPU } from "./cpu.js";
 

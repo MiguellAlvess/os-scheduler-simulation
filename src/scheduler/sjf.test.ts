@@ -1,4 +1,4 @@
-import { Process } from "../entities/process.js";
+import { Process } from "../process/process.js";
 import { SJFScheduler } from "./sjf.js";
 
 describe("Algoritmo Shortest Job First", () => {
