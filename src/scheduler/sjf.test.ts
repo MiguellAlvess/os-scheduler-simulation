@@ -12,7 +12,6 @@ describe("Algoritmo Shortest Job First", () => {
 
     expect(sjf.execute()).toMatch(/Processo 2 executando/);
     expect(sjf.execute()).toMatch(/finalizado e removido/);
-
     expect(sjf.execute()).toMatch(/Processo 1 executando/);
   });
 });
