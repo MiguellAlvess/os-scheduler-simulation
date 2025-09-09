@@ -1,4 +1,4 @@
-# Simulação de Escalonamento de Processos (Sistemas Operacionais)
+# Simulação de escalonamento de processos (Sistemas Operacionais)
 
 Este projeto foi desenvolvido como exercício prático da disciplina de Sistemas Operacionais da faculdade. O objetivo é simular três algoritmos clássicos de escalonamento de processos:
 
