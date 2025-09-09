@@ -7,7 +7,7 @@ export class SJFScheduler implements Scheduler {
 
   add(processo: Process): void {
     console.log(
-      `[Shortest Job First)] Adicionando processo ${processo.getId()} à fila de prontos.`,
+      `[Shortest Job First] Adicionando processo ${processo.getId()} à fila de prontos.`,
     );
     this.readyQueue.push(processo);
   }
