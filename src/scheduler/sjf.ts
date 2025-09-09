@@ -17,7 +17,7 @@ export class SJFScheduler implements Scheduler {
   }
 
   execute(): string {
-    console.log("Executando Shortest Job First)");
+    console.log("Executando Shortest Job First");
     if (!this.readyQueue.length) return "Nenhum processo na fila.";
 
     this.readyQueue.sort(
