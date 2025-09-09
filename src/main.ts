@@ -1,5 +1,5 @@
 import { CPU } from "./cpu/cpu.js";
-import { ProcessGenerator } from "./entities/process-generator.js";
+import { ProcessGenerator } from "./process/process-generator.js";
 import { FCFSScheduler } from "./scheduler/fcfs.js";
 import { RoundRobinScheduler } from "./scheduler/round-robin.js";
 import { SJFScheduler } from "./scheduler/sjf.js";

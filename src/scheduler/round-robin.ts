@@ -1,4 +1,4 @@
-import { Process } from "../entities/process.js";
+import { Process } from "../process/process.js";
 import { Scheduler } from "./types.js";
 
 export class RoundRobinScheduler implements Scheduler {

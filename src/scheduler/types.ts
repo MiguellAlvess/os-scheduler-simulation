@@ -1,4 +1,4 @@
-import { Process } from "../entities/process.js";
+import { Process } from "../process/process.js";
 
 export type Algorithm = "FCFS" | "SJF" | "RR";
 
