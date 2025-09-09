@@ -12,10 +12,8 @@ describe("Algoritmo First Come, First Served", () => {
 
     expect(fcfs.execute()).toMatch(/Processo 1 executando/);
     expect(fcfs.execute()).toMatch(/finalizado e removido/);
-
     expect(fcfs.execute()).toMatch(/Processo 2 executando/);
     expect(fcfs.execute()).toMatch(/finalizado e removido/);
-
     expect(fcfs.hasProcesses()).toBe(false);
   });
 });
